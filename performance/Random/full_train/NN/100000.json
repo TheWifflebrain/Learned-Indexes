@@ -1,1 +1,1 @@
-{"search time": 3.640959024429321e-05, "build time": 8.003544092178345, "store size": 879, "type": "NN", "average error": 0.37181}
+{"type": "NN", "build time": 30.623462677001953, "search time": 4.826153516769409e-05, "average error": 0.39325039999999534, "store size": 879}
